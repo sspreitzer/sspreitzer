@@ -7,6 +7,7 @@
 - :diving_mask: PADI Pro [#520610](https://apps.padi.com/scuba-diving/pro-chek/), guiding scuba divers on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [Ban's Diving](https://www.bansdivingresort.com).
 - :athletic_shoe: Running 3-5km every 3 days, takes approximately 45 mins.
 - :student: Studying next to work. Lifelong learner, MBA, EMBA, Ph.D.
+- 📕 See my [Open Access publications in German](https://spreitzer.ch/publications)
 
 #### Occupation
 *I transform legacy applications into scalable container clusters in the cloud, to help customers to address volatile markets.*
