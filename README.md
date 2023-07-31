@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 #### Life
-*I am planning on the digitalization of the scuba diving industry.*
+As a member of the Professional Association of Diving Instructors (PADI), I am opening hearts and minds to the hidden beauty of nature’s creation and our obligation to protect it. I foster self-esteem in other persons, teach the value of character and integrity and transform student life’s forever.
+
+PADI's creed and leadership enables me to be a motivating and inspiring teach lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications into scalable container clusters in the cloud, to help customers to address volatile markets.*
+
+*"Don't command people. Share the wonders and romantic adventures of the open ocean and the ship will sail by itself."*
 
 - :computer: Linux, Open Source and Code since 1998. Author and contributor to numerous projects. Including the pre GitHub era.
-- :diving_mask: PADI Pro [#520610](https://apps.padi.com/scuba-diving/pro-chek/), guiding scuba divers on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [Ban's Diving](https://www.bansdivingresort.com).
+- :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [mydive (CH)](https://www.mydive.ch), [Ban's Diving Resort (TH)](https://www.bansdivingresort.com).
 
 | PADI | Koh Tao |
 | --- | --- |
@@ -15,10 +19,12 @@
 - 📕 See my [Open Access publications in German](https://spreitzer.ch/publications)
 
 #### Occupation
-*I transform legacy applications into scalable container clusters in the cloud, to help customers to address volatile markets.*
+- :briefcase: Full-time Tech Lead Container Platform & DevOps Service :space_invader: at [Aveniq](https://www.aveniq.ch) in Switzerland :switzerland:
+- :diving_mask: Freelance Scuba Diving Instructor at [mydive](https://www.mydive.ch) in Switzerland :switzerland:
+- :speech_balloon: See my [LinkedIn profile](https://www.linkedin.com/in/sspreitzer/).
 
-- :briefcase: Tech Lead Container Platform & DevOps Service :space_invader: at [Aveniq](https://www.aveniq.ch) in Switzerland. :switzerland:
-- :speech_balloon: I also have a [LinkedIn profile](https://www.linkedin.com/in/sspreitzer/).
+#### Plans
+Running a project to live-stream and monitor the open ocean for the public.
 
 #### Contribution
 - Watering neighbours plants. Yes, don't laugh.
