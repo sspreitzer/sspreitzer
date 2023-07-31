@@ -3,7 +3,7 @@
 #### Life
 As a member of the Professional Association of Diving Instructors (PADI), I am opening hearts and minds to the hidden beauty of nature’s creation and our obligation to protect it. I foster self-esteem in other persons, teach the value of character and integrity and transform student life’s forever.
 
-PADI's creed and leadership enables me to be a motivating and inspiring teach lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications and processes into agile and scalable container clusters in the cloud, to help customers to address volatile markets.
+PADI's creed and leadership enables me to be a motivating and inspiring Tech Lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications and processes into agile and scalable container clusters in the cloud, to help customers to address volatile markets.
 
 *"Don't command people. Share the wonders and romantic adventures of the open ocean and the ship will sail by itself."*
 
