@@ -22,6 +22,11 @@ As a member of the Professional Association of Diving Instructors (PADI), I am o
 - :diving_mask: Freelance Scuba Diving Instructor at [mydive](https://www.mydive.ch) in Switzerland :switzerland:
 - :speech_balloon: See my [LinkedIn profile](https://www.linkedin.com/in/sspreitzer/).
 
+#### Academia
+- 🧑‍🎓 Doctor of Business Administration (Ph.D.) Student (2029)
+- 🧑‍🎓 Executive Master of Business Administration Student in Innovative & New Leadership (2024)
+- 🧑‍🎓 Master of Business Administration in IT-Management (2022)
+
 #### Plans
 Running a project to live-stream and monitor the open ocean for the public.
 
