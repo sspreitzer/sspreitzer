@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+*"Don't command the ship. Share the wonders and adventures of the open ocean and the ship will sail by itself."*
+
+PADI's creed and leadership enable me to be a motivating and inspiring Tech Lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications and processes into agile and scalable container clusters in the cloud, to help customers to address volatile markets.
+
 As a member of the Professional Association of Diving Instructors (PADI), I am opening hearts and minds to the hidden beauty of nature’s creation and our obligation to protect it. I foster self-esteem in other persons, teach the value of character and integrity and transform student life’s forever.
-
-PADI's creed and leadership enables me to be a motivating and inspiring Tech Lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications and processes into agile and scalable container clusters in the cloud, to help customers to address volatile markets.
-
-*"Don't command the ship. Share the wonders and romantic adventures of the open ocean and the ship will sail by itself."*
 
 - :computer: Linux, Open Source and Code since 1998. Author and contributor to numerous projects. Including the pre GitHub era.
 - :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [mydive (CH)](https://www.mydive.ch), [Ban's Diving Resort (TH)](https://www.bansdivingresort.com).
