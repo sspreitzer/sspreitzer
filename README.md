@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-*"Don't command the ship. Share the wonders and adventures of the open ocean and the ship will sail by itself."*
+At Aveniq I am leading the continous integration and delivery of a Kubernetes platform product, that is infrastructure agnostic and in line with the Cloud Native Computing Foundation project portfolio. My customers benefit from a highly scalable, secure, self-service and self-healing cloud native application platform, that is on-premise or in the public cloud, but with the same set of features and expectations.
 
-PADI's creed and leadership enable me to be a motivating and inspiring Tech Lead in the realm of container technologies, namely Kubernetes, Azure Kubernetes Service and OpenShift. Transforming legacy applications and processes into agile and scalable container clusters in the cloud, to help customers to address volatile markets.
+In the last years I successfully moved Swiss SME companies from legacy compute platforms to scalable container clusters, enabling their business to scale, innovate and grow. A main focus is security, namely container images at rest, containers at runtime, data in transit and data at rest.
 
-As a member of the Professional Association of Diving Instructors (PADI), I am opening hearts and minds to the hidden beauty of nature’s creation and our obligation to protect it. I foster self-esteem in other persons, teach the value of character and integrity and transform student life’s forever.
+Besides IT, I am training people to become scuba divers. My students have achieved a variety of scuba diving certifications and specialties.
+
+Besides IT and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an MBA in IT-Management, and CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. My current focus is to finish an EMBA thesis about "Quiet Quitting". I am working towards a Ph.D., the Doctor of Business Administration.
+
+I combine decades of in-depth IT technology experience and knowledge with an extensive knowledge of the organization of passionate and performing human work.
 
 - :computer: Linux, Open Source and Code since 1998. Author and contributor to numerous projects. Including the pre GitHub era.
 - :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [mydive (CH)](https://www.mydive.ch), [Ban's Diving Resort (TH)](https://www.bansdivingresort.com).
