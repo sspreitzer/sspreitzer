@@ -6,7 +6,7 @@ In the last years I successfully moved Swiss SME companies from legacy compute p
 
 Besides IT, I am training people to become scuba divers. My students have achieved a variety of scuba diving certifications and specialties.
 
-Besides IT and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an MBA in IT-Management, and CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. My current focus is to finish an EMBA thesis about "Quiet Quitting". I am working towards a Ph.D., the Doctor of Business Administration.
+Besides IT and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an EMBA in Innovative & New Leadership, an MBA in IT-Management, CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. I am currently a Ph.D. student in Business Administration.
 
 I combine decades of in-depth IT technology experience and knowledge with an extensive knowledge of the organization of passionate and performing human work.
 
