@@ -15,7 +15,7 @@ I uniquely combine decades of in-depth Information Technology experience and edu
 - 📕 See my [Open Access publications in German](https://spreitzer.ch/publications)
 
 #### Occupation
-- :briefcase: Head Managed Container Platforms at [SIX Group](https://www.six-group.com) in Switzerland :switzerland:
+- :briefcase: Head Managed Container Platforms at [SIX Group :rocket:](https://www.six-group.com) in Switzerland :switzerland:
 - :diving_mask: Freelance Scuba Diving Instructor at [mydive](https://www.mydive.ch) in Switzerland :switzerland:
 - :speech_balloon: See my [LinkedIn profile](https://www.linkedin.com/in/sspreitzer/).
 
