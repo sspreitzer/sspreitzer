@@ -1,28 +1,21 @@
 ### Hi there 👋
 
-At Aveniq I am leading the continous integration and delivery of a Kubernetes platform product, that is infrastructure agnostic and in line with the Cloud Native Computing Foundation project portfolio. My customers benefit from a highly scalable, secure, self-service and self-healing cloud native application platform, that is on-premise or in the public cloud, but with the same set of features and expectations.
+At SIX Group I am leading an international agile product team of Kubernetes technology experts. Together, we operate, maintain, and continuously improve an efficient, secure and stable container platform that underpins core financial infrastructure services for Spain and Switzerland, including exchanges, securities, financial information, and banking solutions.
 
-In the last years I successfully moved Swiss SME companies from legacy compute platforms to scalable container clusters, enabling their business to scale, innovate and grow. A main focus is security, namely container images at rest, containers at runtime, data in transit and data at rest.
+After work I am training people to become scuba divers. My students have achieved a variety of scuba diving certifications and specialties.
 
-Besides IT, I am training people to become scuba divers. My students have achieved a variety of scuba diving certifications and specialties.
+Besides work and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an EMBA in Innovative & New Leadership, an MBA in IT-Management, CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. I am currently a student of the Doctor of Business Administration.
 
-Besides IT and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an EMBA in Innovative & New Leadership, an MBA in IT-Management, CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. I am currently a Ph.D. student in Business Administration.
-
-I combine decades of in-depth IT technology experience and knowledge with an extensive knowledge of the organization of passionate and performing human work.
+I uniquely combine decades of in-depth Information Technology experience and education with an extensive knowledge of the organization of passionate and performing human work.
 
 - :computer: Linux, Open Source and Code since 1998. Author and contributor to numerous projects. Including the pre GitHub era.
-- :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and on the island of [Koh Tao](https://goo.gl/maps/PE21YfwVDdccLDqd7). See: [mydive (CH)](https://www.mydive.ch), [Ban's Diving Resort (TH)](https://www.bansdivingresort.com).
-
-| PADI | Koh Tao |
-| --- | --- |
-| [![We Are PADI, The Way the World Learns to Dive](https://img.youtube.com/vi/w8-KIkOUWME/0.jpg)](https://www.youtube.com/watch?v=w8-KIkOUWME) | [![Koh Tao, Thailand - Great Diving, Fun Lifestyle, Activities Galore](https://img.youtube.com/vi/xLvDCsORh0U/0.jpg)](https://www.youtube.com/watch?v=xLvDCsORh0U) |
-
+- :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and occasionaly in the tropics.
 - :athletic_shoe: Running 3-5km every 3 days, takes approximately 45 mins.
 - :student: Studying next to work. Lifelong learner, MBA, EMBA, Ph.D.
 - 📕 See my [Open Access publications in German](https://spreitzer.ch/publications)
 
 #### Occupation
-- :briefcase: Full-time Tech Lead Container Platform & DevOps Service :space_invader: at [Aveniq](https://www.aveniq.ch) in Switzerland :switzerland:
+- :briefcase: Head Managed Container Platforms at [SIX Group](https://www.six-group.com) in Switzerland :switzerland:
 - :diving_mask: Freelance Scuba Diving Instructor at [mydive](https://www.mydive.ch) in Switzerland :switzerland:
 - :speech_balloon: See my [LinkedIn profile](https://www.linkedin.com/in/sspreitzer/).
 
