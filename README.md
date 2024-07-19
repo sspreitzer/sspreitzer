@@ -6,7 +6,7 @@ After work I am training people to become scuba divers. My students have achieve
 
 Besides work and scuba diving I am studying management sciences and have achieved a variety of diplomas. Namely an EMBA in Innovative & New Leadership, an MBA in IT-Management, CASs in General Management, IT-Management, Digital Strategy & Performance, Innovative & New Leadership. I am currently a student of the Doctor of Business Administration.
 
-I uniquely combine decades of in-depth Information Technology experience and education with an extensive knowledge of the organization of passionate and performing human work.
+I uniquely combine decades of in-depth Information Technology experience and education with an extensive knowledge and experience of the organisation of passionate and performing human work.
 
 - :computer: Linux, Open Source and Code since 1998. Author and contributor to numerous projects. Including the pre GitHub era.
 - :diving_mask: PADI Instructor [#520610](https://apps.padi.com/scuba-diving/pro-chek/), teaching scuba diving students in Switzerland and occasionaly in the tropics.
