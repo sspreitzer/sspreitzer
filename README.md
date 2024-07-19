@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-At SIX :rocket: I am leading an agile product team of cloud native and Kubernetes technology experts. Together, we operate, maintain, and continuously improve an efficient, secure and stable container platform that underpins core financial infrastructure services for Spain and Switzerland, including exchanges, securities, financial information, and banking solutions.
+At SIX :rocket: I am leading two agile product teams of cloud native and Kubernetes technology experts. Together, we operate, maintain, and continuously improve efficient, secure and stable container platforms that underpin the system relevant financial infrastructure services for Spain and Switzerland, including exchanges, securities, financial information, inter banking solutions and national banks.
 
 After work I am training people to become scuba divers. My students have achieved a variety of scuba diving certifications and specialties.
 
